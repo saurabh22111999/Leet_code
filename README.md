@@ -19,4 +19,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/saurabh22111999/Leet_code/tree/master/2434-design-a-number-container-system) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/saurabh22111999/Leet_code/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/saurabh22111999/Leet_code/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/saurabh22111999/Leet_code/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
